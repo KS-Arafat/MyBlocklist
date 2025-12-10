@@ -36,6 +36,51 @@ adx-in.ads.heytapmobile.com
 
 googleads.g.doubleclick.net.lan
 
+# Google Analytics
+google-analytics.com
+www.google-analytics.com
+ssl.google-analytics.com
+
+# Google Tag Manager
+googletagmanager.com
+www.googletagmanager.com
+tagmanager.google.com
+
+# Google Tag Services
+googletagservices.com
+www.googletagservices.com
+
+# Google Marketing / Measurement
+marketingplatform.google.com
+analytics.google.com
+www.analytics.google.com
+measurementapi.googleapis.com
+
+# DoubleClick / Google Ads Tracking
+doubleclick.net
+ad.doubleclick.net
+stats.g.doubleclick.net
+cm.g.doubleclick.net
+
+# Google Ad Services / Syndication
+googlesyndication.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+adservice.google.com
+adservice.google.co.uk
+adservice.google.ca
+adservice.google.de
+adservice.google.fr
+adservice.google.es
+# (Adservice is region-based; these entries avoid blocking core search)
+
+# Floodlight (Google marketing/remarketing)
+fls.doubleclick.net
+
+# Google Signals/Telemetry (advertising-related)
+conversiontracking.googleusercontent.com
+
+
 # MISC
 
 edgedl.me.gvt1.com
