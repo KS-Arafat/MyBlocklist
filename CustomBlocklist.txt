@@ -1,0 +1,32 @@
+# MIUI
+
+sdkconfig.ad.intl.xiaomi.com
+mcc-intl.inf.miui.com
+auosmj-inapps.appsflyersdk.com
+sa.api.intl.miui.com
+
+data.mistat.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.india.xiaomi.com
+data.mistat.rus.xiaomi.com
+
+tracking.miui.com
+tracking.intl.miui.com
+tracking.india.miui.com
+tracking.rus.miui.com
+
+sgp-api.video.intl.xiaomi.com
+update.intl.miui.com
+api.ad.intl.xiaomi.com.lan
+connect.intl.rom.miui.com
+
+# Oppo
+
+omes-sec.heytapmobile.com
+stat-in.dc.oppomobile.com
+httpdns-push.heytapmobile.com
+conf-in.dc.heytapmobi.com
+conff.dc.oppomobile.com
+dragate-in-dc.heytapmobile.com
+mdp-appconf-sg.heytapdl.com
+adx-in.ads.heytapmobile.com 
