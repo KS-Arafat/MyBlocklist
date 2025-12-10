@@ -30,3 +30,7 @@ conff.dc.oppomobile.com
 dragate-in-dc.heytapmobile.com
 mdp-appconf-sg.heytapdl.com
 adx-in.ads.heytapmobile.com 
+
+# Google
+
+googleads.g.doubleclick.net.lan
