@@ -19,6 +19,7 @@ sgp-api.video.intl.xiaomi.com
 update.intl.miui.com
 api.ad.intl.xiaomi.com.lan
 connect.intl.rom.miui.com
+find.api.micloud.xiaomi.net
 
 # Oppo
 
@@ -34,3 +35,7 @@ adx-in.ads.heytapmobile.com
 # Google
 
 googleads.g.doubleclick.net.lan
+
+# MISC
+
+edgedl.me.gvt1.com
