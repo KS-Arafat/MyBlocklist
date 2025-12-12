@@ -36,6 +36,7 @@ cloudconf-app-lk.heytapmobile.com
 # Google
 
 googleads.g.doubleclick.net.lan
+locationhistory-pa.googleapis.com
 
 # Google Analytics
 google-analytics.com
