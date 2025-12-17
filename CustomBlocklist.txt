@@ -32,6 +32,8 @@ dragate-in-dc.heytapmobile.com
 mdp-appconf-sg.heytapdl.com
 adx-in.ads.heytapmobile.com 
 cloudconf-app-lk.heytapmobile.com
+api-gl.store.heytapmobi.com
+store-cfg-gl.heytapmobile.com
 
 # Google
 
