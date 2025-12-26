@@ -20,7 +20,7 @@ update.intl.miui.com
 api.ad.intl.xiaomi.com.lan
 connect.intl.rom.miui.com
 find.api.micloud.xiaomi.net
-
+logsanalytics.net
 # Oppo
 
 omes-sec.heytapmobile.com
