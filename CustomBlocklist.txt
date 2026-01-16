@@ -65,6 +65,7 @@ doubleclick.net
 ad.doubleclick.net
 stats.g.doubleclick.net
 cm.g.doubleclick.net
+semanticlocation-pa.googleapis.com
 
 # Google Ad Services / Syndication
 googlesyndication.com
@@ -83,6 +84,17 @@ fls.doubleclick.net
 
 # Google Signals/Telemetry (advertising-related)
 conversiontracking.googleusercontent.com
+
+# Samsung
+dls.di.atlas.samsung.com
+api.account.samsung.com
+glf-odc.samsungapps.com
+us-auth2.samsungosp.com
+eu-api.samsungpositioning.com
+us-auth2.samsungosp.com
+
+# Tiktok
+mssdk16-normal-alisg.tiktokv.com
 
 
 # MISC
