@@ -1,106 +1,19 @@
-# MIUI
 
-sdkconfig.ad.intl.xiaomi.com
-mcc-intl.inf.miui.com
-auosmj-inapps.appsflyersdk.com
-sa.api.intl.miui.com
-
-data.mistat.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.india.xiaomi.com
-data.mistat.rus.xiaomi.com
-
-tracking.miui.com
-tracking.intl.miui.com
-tracking.india.miui.com
-tracking.rus.miui.com
-
-sgp-api.video.intl.xiaomi.com
-update.intl.miui.com
-api.ad.intl.xiaomi.com.lan
-connect.intl.rom.miui.com
-find.api.micloud.xiaomi.net
-logsanalytics.net
-# Oppo
-
-omes-sec.heytapmobile.com
-stat-in.dc.oppomobile.com
-httpdns-push.heytapmobile.com
-conf-in.dc.heytapmobi.com
-conff.dc.oppomobile.com
-dragate-in-dc.heytapmobile.com
-mdp-appconf-sg.heytapdl.com
-adx-in.ads.heytapmobile.com 
-cloudconf-app-lk.heytapmobile.com
-api-gl.store.heytapmobi.com
-store-cfg-gl.heytapmobile.com
-
-# Google
-
-googleads.g.doubleclick.net.lan
-locationhistory-pa.googleapis.com
-
-# Google Analytics
-google-analytics.com
-www.google-analytics.com
-ssl.google-analytics.com
-
-# Google Tag Manager
-googletagmanager.com
-www.googletagmanager.com
-tagmanager.google.com
-
-# Google Tag Services
-googletagservices.com
-www.googletagservices.com
-
-# Google Marketing / Measurement
-marketingplatform.google.com
-analytics.google.com
-www.analytics.google.com
-measurementapi.googleapis.com
-
-# DoubleClick / Google Ads Tracking
-doubleclick.net
-ad.doubleclick.net
-stats.g.doubleclick.net
-cm.g.doubleclick.net
-semanticlocation-pa.googleapis.com
-
-# Google Ad Services / Syndication
-googlesyndication.com
-pagead2.googlesyndication.com
-tpc.googlesyndication.com
-adservice.google.com
-adservice.google.co.uk
-adservice.google.ca
-adservice.google.de
-adservice.google.fr
-adservice.google.es
 # (Adservice is region-based; these entries avoid blocking core search)
-
+# DoubleClick / Google Ads Tracking
 # Floodlight (Google marketing/remarketing)
-fls.doubleclick.net
-
+# Google
+# Google Ad Services / Syndication
+# Google Analytics
+# Google Marketing / Measurement
 # Google Signals/Telemetry (advertising-related)
-conversiontracking.googleusercontent.com
-
-# Samsung
-dls.di.atlas.samsung.com
-api.account.samsung.com
-glf-odc.samsungapps.com
-us-auth2.samsungosp.com
-eu-api.samsungpositioning.com
-us-auth2.samsungosp.com
-
-# Tiktok
-mssdk16-normal-alisg.tiktokv.com
-
-
+# Google Tag Manager
+# Google Tag Services
 # MISC
-
-edgedl.me.gvt1.com
-
+# MIUI
+# Oppo
+# Samsung
+# Tiktok
 0pbxmo.xzcs3zlph.com
 1437953666.rsc.cdn77.org
 172ba9a122.us.verifysession.uxcam.com
@@ -119,8 +32,15 @@ ads-api.x.com
 ads.pubmatic.com
 ads.vidoomy.com
 adsco.re
+adservice.google.ca
+adservice.google.co.uk
 adservice.google.com
+adservice.google.de
+adservice.google.es
+adservice.google.fr
 adv.sec.intl.miui.com
+adx-in.ads.heytapmobile.com
+adx-in.ads.heytapmobile.com 
 adx.ads.vungle.com
 ae.iads.unity3d.com
 amp-xhamster-com.cdn.ampproject.org.lan
@@ -133,6 +53,7 @@ amp.xhopen.com
 amp.xvideos2.com
 amp.xvideos3.com
 analytics.ff.avast.com
+analytics.google.com
 analytics.tiktok.com
 analytics.us.tiktok.com
 android.bugly.qq.com
@@ -181,6 +102,7 @@ appsgrowthpromo-pa.clients6.google.com
 appsgrowthpromo-pa.googleapis.com
 assetsconfigcdn.org
 au.ff.avast.sec.miui.com
+auosmj-inapps.appsflyersdk.com
 authbe.sec.intl.miui.com
 badlandlispyippee.com
 bangladesh-static.adfinix.com
@@ -220,16 +142,20 @@ clevertap-prod.com
 clientcdn.pushengage.com
 clienttracing-pa.googleapis.com
 cloudconf-app-lk.heytapmobile.com
+cm.g.doubleclick.net
 cmp.osano.com
 collector.bsg.brave.com
 collector.bsg.brave.com.lan
 collector.github.com
 componentupdater.brave.com
+conf-in.dc.heytapmobi.com
+conff.dc.oppomobile.com
 config.ads.vungle.com
 conn-service-us-04.allawnos.com
 conn-service-us-05.allawnos.com
 connect.intl.rom.miui.com
 continuum.dds.microsoft.com
+conversiontracking.googleusercontent.com
 coosync.com
 counter.yadro.ru
 cpm.appocean.media
@@ -246,7 +172,10 @@ cvhcs0-launches.appsflyersdk.com
 d-code.liadm.com
 da.chartboost.com
 dap.digitalgov.gov
+data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
+data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
 data.pendo.io
 data.syncthing.net
 dc.di.atlas.samsung.com
@@ -259,6 +188,8 @@ dit.whatsapp.net
 dls-udc.dqa.samsung.com
 dls.di.atlas.samsung.com
 dnhfi5nn2dt67.cloudfront.net
+doubleclick.net
+dragate-in-dc.heytapmobile.com
 du0pud0sdlmzf.cloudfront.net
 dv9cjr-cdn-settings.appsflyersdk.com
 dv9cjr-launches.appsflyersdk.com
@@ -286,6 +217,7 @@ firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 flash.sec.intl.miui.com
 fls-na.amazon.com
+fls.doubleclick.net
 footbathmockerpurse.com
 frontier.tiktokv.com
 fundingchoicesmessages.google.com
@@ -304,8 +236,12 @@ globalapi.ad.xiaomi.com
 go-updater.brave.com
 go-updater.brave.com.lan
 go.realsh.xyz
+google-analytics.com
 googleads.g.doubleclick.net
 googleads.g.doubleclick.net.lan
+googlesyndication.com
+googletagmanager.com
+googletagservices.com
 graph-fallback.instagram.com
 graph.fbpigeon.com
 graph.instagram.com
@@ -316,6 +252,7 @@ gui-server-sg.allawnos.com
 gum.criteo.com
 gw1.mediation.unity3d.com
 hbopenbid.pubmatic.com
+httpdns-push.heytapmobile.com
 ib.isappcloud.com
 images-dl.taboola.com
 imgsct.cookiebot.com
@@ -341,12 +278,14 @@ logger.streamyard.com
 logs.ads.vungle.com
 logs.grayjay.app
 logsanalytics.net
+marketingplatform.google.com
 maxdebrid.com
 mc.yandex.ru
 mcc-intl.inf.miui.com
 mdp-appconf-lk.heytapdl.com
 mdp-appconf-sg.heytapdl.com
 mdp-appconf-us.heytapdl.com
+measurementapi.googleapis.com
 mf.climaxjoyant.com
 mobile.events.data.microsoft.com
 mon-boot.tiktokv.com
@@ -416,8 +355,10 @@ s.gofile.io
 s.optvz.com
 s.uuidksinc.net
 s2s.adjust.com
+sa.api.intl.miui.com
 sau-server-sg.allawnos.com
 sb.scorecardresearch.com
+sdkconfig.ad.intl.xiaomi.com
 search.brave.com
 search16-normal-c-alisg.tiktokv.com
 securepubads.g.doubleclick.net
@@ -443,6 +384,7 @@ sspjs.eskimi.com
 st.pussyspace.com
 star-randsrv.bsg.brave.com
 star-randsrv.bsg.brave.com.lan
+stat-in.dc.oppomobile.com
 static--ss-xnxx--cdn-com.cdn.ampproject.org
 static--ss-xvideos--cdn-com.cdn.ampproject.org
 static-cdn77.xnxx-cdn.com
@@ -452,6 +394,7 @@ static.cloudflareinsights.com
 static.doubleclick.net
 static.klaviyo.com
 static.xxxbp.tv
+stats.g.doubleclick.net
 store-cfg-gl.heytapmobile.com
 stun.hitv.com
 stun.services.mozilla.com
@@ -462,6 +405,7 @@ sync.inmobi.com
 syndicatedsearch.goog
 syndication.twitter.com
 t7.a.market.xiaomi.com
+tagmanager.google.com
 tags.news.com.au
 tags.tiqcdn.com
 target.microsoft.com
@@ -472,7 +416,10 @@ tnc-boot.tiktokv.com
 tnc0-normal-alisg.tiktokv.com
 top-fwz1.mail.ru
 tpc.googlesyndication.com
+tracking.india.miui.com
 tracking.intl.miui.com
+tracking.miui.com
+tracking.rus.miui.com
 traffic-nts-ip-assoc.xy.fbcdn.net
 traffic-nts-ip-assoc.xz.fbcdn.net
 tz.sec.xiaomi.com
@@ -501,6 +448,7 @@ weirdopt.com
 westus-0.in.applicationinsights.azure.com
 whos.amung.us
 wpad.lan
+www.analytics.google.com
 www.blockadsnot.com
 www.clarity.ms
 www.freepornvideo.sex
