@@ -198,6 +198,7 @@ eu-api.samsungpositioning.com
 sb.scorecardresearch.com
 csp.secureserver.net
 o107031.ingest.sentry.io
+sex.com
 dsu-a.shalltry.com
 platform-api.sharethis.com
 securepubads.shareus.io
