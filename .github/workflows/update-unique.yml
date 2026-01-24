@@ -33,7 +33,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add CustomBlocklist.txt
+          git add CustomBlocklist1.txt
           git add CustomBlocklist2.txt
           git commit -m "Update CustomBlocklist [$NOW]"
           git push
