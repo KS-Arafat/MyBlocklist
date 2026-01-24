@@ -35,5 +35,5 @@ jobs:
 
           git add CustomBlocklist.txt
           git add CustomBlocklist2.txt
-          git commit -m "Update CustomBlocklist ([$NOW])"
+          git commit -m "Update CustomBlocklist [$NOW]"
           git push
