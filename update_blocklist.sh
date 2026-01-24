@@ -2,7 +2,7 @@
 set -euo pipefail
 
 INPUT="FTL_URL.txt"
-OUTPUT1="CustomBlocklist.txt"
+OUTPUT1="CustomBlocklist1.txt"
 OUTPUT2="CustomBlocklist2.txt"
 TMP="$(mktemp)"
 
