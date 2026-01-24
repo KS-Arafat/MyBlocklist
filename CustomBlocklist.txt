@@ -5,6 +5,8 @@ bangladesh-static.adfinix.com
 app.adjust.com
 app.adjust.io
 app.adjust.world
+fw.adsafeprotected.com
+adsco.re
 ep1.adtrafficquality.google
 cdn62542989.ahacdn.me
 ynuf.aliapp.org
