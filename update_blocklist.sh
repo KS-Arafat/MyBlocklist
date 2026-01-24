@@ -3,7 +3,7 @@ set -euo pipefail
 
 INPUT="FTL_URL.txt"
 OUTPUT="CustomBlocklist.txt"
-OUTPUT2="CustomBlocklist2.txt"
+OUTPUTN="CustomBlocklist2.txt"
 TMP="$(mktemp)"
 
 # Ensure output exists
@@ -16,8 +16,7 @@ sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "$INPUT" | \
 grep -v '^$' >> "$OUTPUT"
 
 # Sort and deduplicate by subdomain
-sort -u "$OUTPUT" > "$TMP"
-mv "$TMP" "$OUTPUT2"
+sort -u "$OUTPUT" > "$OUTPUTN"
 
 # Sort and deduplicate by domain
 awk -F. '{
