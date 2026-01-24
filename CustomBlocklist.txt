@@ -1,5 +1,3 @@
-
-(Adservice
 epdg.epc.mnc001.mcc470.pub.3gppnetwork.org
 privacy-api.9gag.com
 static.addtoany.com
