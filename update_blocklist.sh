@@ -6,8 +6,8 @@ OUTPUT1="CustomBlocklist.txt"
 OUTPUT2="CustomBlocklist2.txt"
 TMP="$(mktemp)"
 
-touch $OUTPUT1
-touch $OUTPUT2
+touch "$OUTPUT1"
+touch "$OUTPUT2"
 
 
 # Normalize input: trim whitespace + remove empty lines
