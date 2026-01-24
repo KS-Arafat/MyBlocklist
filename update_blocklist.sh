@@ -2,32 +2,32 @@
 set -euo pipefail
 
 INPUT="FTL_URL.txt"
-OUTPUT="CustomBlocklist.txt"
-OUTPUTN="CustomBlocklist2.txt"
+OUTPUT1="CustomBlocklist.txt"
+OUTPUT2="CustomBlocklist2.txt"
 TMP="$(mktemp)"
 
-# Ensure output exists
-touch "$OUTPUT"
+touch $OUTPUT1
+touch $OUTPUT2
 
-# Normalize input:
-# - trim whitespace
-# - remove empty lines
-sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "$INPUT" | \
-grep -v '^$' >> "$OUTPUT"
 
-# Sort and deduplicate by subdomain
-sort -u "$OUTPUT" > "$OUTPUTN"
+# Normalize input: trim whitespace + remove empty lines
+sed 's/^[[:space:]]*//;s/[[:space:]]*$//' "$INPUT" | grep -v '^$' > "$OUTPUT1"
 
-# Sort and deduplicate by domain
+# Sort & deduplicate by subdomain into OUTPUT2
+sort -u "$OUTPUT1" > "$OUTPUT2"
+
+# Sort & deduplicate by SDL (domain) into TMP
 awk -F. '{
     n=NF
-    # capture the last 2 fields as SDL
     if(n>=2){
         sdl=$(n-1)"."$n
         print sdl,$0
     } else {
         print $0,$0
     }
-}' "$OUTPUT" | sort -k1,1 -u | awk '{print $2}' > "$TMP"
-mv "$TMP" "$OUTPUT"
+}' "$OUTPUT1" | sort -k1,1 -u | awk '{print $2}' > "$TMP"
+
+# Replace OUTPUT with SDL-sorted version
+mv "$TMP" "$OUTPUT1"
+
 rm -f "$TMP"
