@@ -3,7 +3,7 @@ name: Update CustomBlocklist
 on:
   push:
     branches:
-      - test-action
+      - main
     paths:
       - FTL_URL.txt
 
