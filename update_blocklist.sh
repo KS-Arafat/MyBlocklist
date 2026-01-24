@@ -25,7 +25,7 @@ awk -F. '{
     } else {
         print $0,$0
     }
-}' "$OUTPUT1" | sort -k1,1 -u | awk '{print $2}' > "$TMP"
+}' "$OUTPUT1" | sort -k1,1 | awk '{print $2}' > "$TMP"
 
 # Replace OUTPUT with SDL-sorted version
 mv "$TMP" "$OUTPUT1"
