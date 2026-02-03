@@ -130,8 +130,6 @@ ads.exosrv.com
 static.exosrv.com
 syndication.exosrv.com
 default.exp-tas.com
-graph-fallback.facebook.com
-graph.facebook.com
 amp.faphouse.com
 faphouse.com
 faphouse2.com

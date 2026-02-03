@@ -231,9 +231,7 @@ go.hot-india.com
 go.xlviiirdr.com
 googleads.g.doubleclick.net
 googleads.g.doubleclick.net.lan
-graph-fallback.facebook.com
 graph-fallback.instagram.com
-graph.facebook.com
 graph.fbpigeon.com
 graph.instagram.com
 growth-pa.googleapis.com
