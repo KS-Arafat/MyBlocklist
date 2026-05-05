@@ -1,1 +1,6 @@
 fetch_blocked.ps1
+*.old
+pihole-unbound/*.old
+pihole-unbound/logs/
+pihole-unbound/pihole/*
+pihole-unbound/unbound/root.hints
