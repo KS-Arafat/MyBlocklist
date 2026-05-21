@@ -6,4 +6,6 @@ Github Action is set to trigger on `Commit FTL_URL.txt`
 
 This runs `update_blocklist.sh` and it appends new entries to `CustomBlocklist1.txt` and `CustomBlocklist2.txt`
 
+Also `Ignore.txt` will ignore domains from adding them to Blocklists.
+
 Both files have same entries but different entry order.
