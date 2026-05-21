@@ -1,6 +1,4 @@
-0.openwrt.pool.ntp.org
 0pbxmo.xzcs3zlph.com
-1.openwrt.pool.ntp.org
 140.249.33.3.in-addr.arpa
 155.137.117.166.in-addr.arpa
 172ba9a122.us.verifysession.uxcam.com
@@ -62,16 +60,13 @@ api.account.xiaomi.com
 api.ad.intl.xiaomi.com
 api.ads.rokomari.io
 api.aurogon.intl.miui.com
-api.bigdatacloud.net
 api.cloudflareclient.com
 api.comm.miui.com
 api.competition.intl.miui.com
 api.device.xiaomi.net
 api.g.micloud.xiaomi.net
 api.gallery.intl.miui.com
-api.github.com
 api.hybrid.intl.xiaomi.com
-api.ipify.org
 api.mixpanel.com
 api.mosspf.net
 api.mossru.com
@@ -80,7 +75,6 @@ api.onegg.site
 api.onesignal.com
 api.sec.intl.miui.com
 api.sec.miui.com
-api.snapcraft.io
 api.taboola.com
 api.whatsapp.net
 api.whatsapp.net.lan
@@ -108,7 +102,6 @@ app.chat.global.xiaomi.net
 appsgrowthpromo-pa.googleapis.com
 ase.aidcgroup.net
 ase.aliexpress.com
-assetdelivery.roblox.com
 assets.production.spokeo.com
 atb-im-conf.ukyuh.tech
 athena.archive.org
@@ -133,24 +126,19 @@ bustsniffwired.com
 caps.x.com
 carbonfeverthink.com
 cart.lazada.sg
-catalog.roblox.com
 cdn-exp-sg-recommend.pt.xiaomi.com
 cdn-v6.amp-endpoint3.com.lan
 cdn.ak2yy.com
 cdn.appsflyer.com
-cdn.cookielaw.org
 cdn.fing.io
 cdn.fluidplayer.com
-cdn.fwupd.org
 cdn.iads.unity3d.com
-cdn.jsdelivr.net
 cdn.onesignal.com
 cdn.roboticsbd.com
 cdn.trafficstars.com
 cdn.tsyndicate.com
 cdn2.inner-active.mobi
 check-tcp.rayjump.com
-checkip.amazonaws.com
 chrome.cloudflare-dns.com
 cicd-release-api.dalyfeds.com
 cl-data-sg.ads.heytapmobi.com
@@ -173,7 +161,6 @@ collector.bsg.brave.com
 collector.github.com
 collector.wdp.brave.com
 collector.xhamster45.desi
-commons.m.wikimedia.org
 component-ota-sg.allawnos.com
 conf.config-security.com
 conf.letsmessagenow.com
@@ -188,9 +175,7 @@ connect.facebook.net
 connect.intl.rom.miui.com
 connect.rom.miui.com
 connectivity-check.ubuntu.com
-connectivitycheck.gstatic.com
 crab.baidu.com
-crash.syncthing.net
 crashlyticsreports-pa.googleapis.com
 creative.hot-india.com
 cse.avlyun.sec.miui.com
@@ -204,16 +189,13 @@ data.mistat.intl.xiaomi.com
 data.pendo.io
 data.sec.intl.miui.com
 data.sec.miui.com
-data.syncthing.net
 dc-dragate-sg.heytapmobile.com
 dc-dragate-sg.heytapmobile.com.lan
 dc.di.atlas.samsung.com
 dc.di.runestone.samsung.com
 dc.dqa.samsung.com
-dc.services.visualstudio.com
 ddf.di.atlas.samsung.com
 debian.map.fastlydns.net
-detectportal.firefox.com
 developer.oneconnect.top
 diagmon-serviceapi.samsungdm.com
 dialercallinfolookup-pa.googleapis.com
@@ -225,7 +207,6 @@ dls-udc.dqa.samsung.com
 dls.di.atlas.samsung.com
 dooh.cloudflare-dns.com
 downloading124332.downloading9anime4.workers.dev
-downloads.openwrt.org
 driverhugoverblown.com
 ds.rokomari.store.lan
 dt.beyla.site
@@ -246,7 +227,6 @@ ephemeralcounters.api.roblox.com
 epss.alibaba-inc.com
 eu-api.samsungpositioning.com
 eu1-spiky.clevertap-prod.com
-example.org
 external.fdac183-1.fna.fbcdn.net
 favicons.proxy.brave.com
 federatedcompute-pa.googleapis.com
@@ -260,10 +240,7 @@ firebaselogging.googleapis.com
 firebaseremoteconfig.googleapis.com
 firebaseremoteconfig.googleapis.com.lan
 flash.sec.intl.miui.com
-fonts.googleapis.com
-fonts.gstatic.com
 footprints-pa.googleapis.com
-friends.roblox.com
 frontier.tiktokv.com
 fundingchoicesmessages.google.com
 g-fallback.whatsapp.net
@@ -273,8 +250,6 @@ g.mojitok-api.com
 g.mojitok-api.com.lan
 g.whatsapp.net
 g2288.com
-gateway.facebook.com
-gateway.instagram.com
 gateway.unityads.unity3d.com
 gauss-compota-c-sg.allawnofs.com
 geller-pa.googleapis.com
@@ -285,7 +260,6 @@ global-search-gl.heytapmobile.com
 global.market.xiaomi.com
 globalapi.ad.xiaomi.com
 go-updater.brave.com
-google.com
 googleads.g.doubleclick.net
 googleads.g.doubleclick.net.lan
 googlehosted.l.googleusercontent.com
@@ -314,7 +288,6 @@ ib.isappcloud.com
 ic-ut-nss.xhcdn.com
 ic-vrm-nss.xhcdn.com
 ic-vt-nss.xhcdn.com
-icanhazip.com
 images.openai.com
 img-s-msn-com.akamaized.net
 img.alicdn.com
@@ -331,7 +304,6 @@ itscenter.alipay.com
 j9track.com
 jits-api-sg.heytapmobile.com
 jmacs.maribacaberita.com
-json.schemastore.org
 jupiter.intl.sys.miui.com
 kaios-d.facebook.com
 l.facebook.com
@@ -356,7 +328,6 @@ logs.ads.vungle.com
 logsanalytics.net
 loox.io
 lzd-img-global.slatic.net
-m.facebook.com
 mcc-intl.inf.miui.com
 mcds.dalyfeds.com
 mcs-sg.tiktokv.com
@@ -367,7 +338,6 @@ mdp-appconf-us.heytapdl.com
 media-ccu2-2.cdn.whatsapp.net
 media-maa5-2.cdn.whatsapp.net
 meetings.googleapis.com
-member.daraz.com.bd
 messages.google.com
 metrics.roblox.com
 mini-game-fr.heytapmobile.com
@@ -379,7 +349,6 @@ mon-sg.capcutapi.com
 mon.tiktokv.com
 mon16-normal-alisg.tiktokv.com
 monorail-edge.shopifysvc.com
-mqtt-mini.facebook.com
 ms.applovin.com
 ms.applvn.com
 msgacs-m.lazada.sg
@@ -410,7 +379,6 @@ obus-sg.dc.heytapmobile.com
 ofa-sub.osp.opera.software
 ogads-pa.clients6.google.com
 ogads-pa.googleapis.com
-old.reddit.com
 omes-sec.heytapmobile.com
 omes-sec.heytapmobile.com.lan
 omg10.com
@@ -441,7 +409,6 @@ pns-sdk.opera-api.com
 pok.mintegral.net
 policy-tcp.rayjump.com
 poll.gras.samsungdm.com
-pool.ntp.org
 pornhub.com
 pps-token.op-mobile.opera.com
 prebid.bangladsp.com
@@ -460,7 +427,6 @@ quorum.wdp.brave.com
 rankjerryrounion.com
 rcdn-web.com
 receiver-metis.infeng.site
-registry.npmjs.org
 rep.maxesads.com
 resolver.msg.global.xiaomi.net
 robotics-bd.com
@@ -570,7 +536,6 @@ tc.mnbvcxzq.com
 thumbnails.roblox.com
 time-push-intl.heytapmobile.com
 time-push-intl.heytapmobile.com.lan
-time.android.com
 tkda.mosspf.net
 tkda.mossru.com
 tnc-boot.tiktokv.com
@@ -596,7 +561,6 @@ unified.adsafeprotected.com
 unskilfulunpredictable.com
 update.avlyun.sec.miui.com
 update.intl.miui.com
-upload.wikimedia.org
 us-assets.i.posthog.com
 us.find.api.micloud.xiaomi.net
 us.statusapi.micloud.xiaomi.net
@@ -625,12 +589,9 @@ westus-0.in.applicationinsights.azure.com
 widgets.automizely.com
 www-indiatoday-in.cdn.ampproject.org
 www.clarity.ms
-www.daraz.com.bd
 www.desitales2.com
 www.estrongs.com
-www.facebook.com
 www.google-analytics.com
-www.google.com
 www.google.com.lan
 www.google.us
 www.googleadservices.com
@@ -644,11 +605,9 @@ www.profitablecpmratenetwork.com
 www.pullcf.com
 www.pullcm.com
 www.redditstatic.com
-www.rokomari.com
 www.spokeo.com
 www.statcounter.com
 www.tiktok.com
-www.youtube.com
 x.com
 xgapromomanager-pa.googleapis.com
 xhamster.com
@@ -658,7 +617,6 @@ xml.opera.com
 ynuf.aliapp.org
 youtubei.googleapis.com
 youtubei.googleapis.com.lan
-z-m-gateway.facebook.com
 z-m-gateway.facebook.com.lan
 z-m-graph.facebook.com
 z-m-static.xx.fbcdn.net
