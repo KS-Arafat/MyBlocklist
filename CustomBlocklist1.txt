@@ -133,7 +133,6 @@ eu1-spiky.clevertap-prod.com
 clladss.com
 chrome.cloudflare-dns.com
 cloudflare-dns.com
-dooh.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 a.nel.cloudflare.com
 nonexistent.cloudflare.com
@@ -195,8 +194,6 @@ b-graph.facebook.com
 edge-stun.facebook.com
 genai-graph.facebook.com
 graph-fallback.facebook.com
-graph.facebook.com
-kaios-d.facebook.com
 l.facebook.com
 payments-graph.facebook.com
 web-fallback.facebook.com
@@ -255,7 +252,6 @@ notifications-pa.googleapis.com
 notifications-ueeshp-pa.googleapis.com
 ogads-pa.googleapis.com
 ondevicesafety-pa.googleapis.com
-play-fe.googleapis.com
 play.googleapis.com
 proactivebackend-pa.googleapis.com
 remoteprovisioning.googleapis.com
@@ -452,9 +448,7 @@ robotics-bd.com
 cdn.roboticsbd.com
 store.roboticsbd.com
 api.ads.rokomari.io
-rokbucket.rokomari.io
 rokfiles.rokomari.io
-ecommerce.rokomariapi.com
 a.root-servers.net
 my.rtmark.net
 iryjh.rttrk.com

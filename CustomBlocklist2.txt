@@ -221,7 +221,6 @@ dns.google
 dns.google.com
 dns10.quad9.net.lan
 donorbox.org
-dooh.cloudflare-dns.com
 downloading124332.downloading9anime4.workers.dev
 driverhugoverblown.com
 ds.rokomari.store.lan
@@ -235,7 +234,6 @@ e3.whatsapp.net
 e6.whatsapp.net
 e9.whatsapp.net
 eap-log-sg.allawnos.com
-ecommerce.rokomariapi.com
 ecsv2.roblox.com
 edge-chat.facebook.com.lan
 edge-stun.facebook.com
@@ -288,7 +286,6 @@ googleads.g.doubleclick.net
 googleads.g.doubleclick.net.lan
 googlehosted.l.googleusercontent.com
 graph-fallback.facebook.com
-graph.facebook.com
 graph.fbpigeon.com
 graph.instagram.com
 graph.whatsapp.com
@@ -331,7 +328,6 @@ jits-api-sg.heytapmobile.com
 jmacs.maribacaberita.com
 js.hs-scripts.com
 jupiter.intl.sys.miui.com
-kaios-d.facebook.com
 l.facebook.com
 lamssettings-pa.googleapis.com
 launches.appsflyer.com
@@ -432,7 +428,6 @@ peoplestackwebexperiments-pa.clients6.google.com
 pi.ias.xiaomi.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
-play-fe.googleapis.com
 play.googleapis.com
 plugin.ucads.ucweb.com
 pns-sdk.opera-api.com
@@ -464,7 +459,6 @@ rep.maxesads.com
 res1.applovin.com
 resolver.msg.global.xiaomi.net
 robotics-bd.com
-rokbucket.rokomari.io
 rokfiles.rokomari.io
 router.miwifi.com
 rr2---sn-cqi0c-q5j6.googlevideo.com
