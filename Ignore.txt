@@ -1,3 +1,4 @@
+	
 0.openwrt.pool.ntp.org
 1.openwrt.pool.ntp.org
 a.rootapis.roblox.com
@@ -11,7 +12,7 @@ assetdelivery.roblox.com
 catalog.roblox.com
 cdn.cookielaw.org
 cdn.fwupd.org
-cdn.iads.unity3d.com				
+cdn.iads.unity3d.com
 cdn.jsdelivr.net
 checkip.amazonaws.com
 chrome.cloudflare
@@ -23,6 +24,7 @@ data.syncthing.net
 dc.services.visualstudio.com
 detectportal.firefox.com
 dns10.quad9.net
+dooh.cloudflare-dns.com
 downloads.openwrt.org
 example.org
 firefox.dns.nextdns.io
@@ -32,17 +34,21 @@ friends.roblox.com
 gateway.facebook.com
 gateway.instagram.com
 google.com
+graph.facebook.com				
 i.ytimg.com
 icanhazip.com
 json.schemastore.org
+kaios-d.facebook.com
 m.facebook.com
 member.daraz.com.bd
 mqtt-mini.facebook.com
 old.reddit.com
 pbs.twimg.com
+play-fe.googleapis.com
 pool.ntp.org
-public-ubiservices.ubi.com				
+public-ubiservices.ubi.com
 registry.npmjs.org
+rokbucket.rokomari.io
 time.android.com
 ubiservices.cdn.ubi.com
 upload.wikimedia.org
