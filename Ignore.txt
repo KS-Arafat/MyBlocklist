@@ -11,6 +11,7 @@ assetdelivery.roblox.com
 catalog.roblox.com
 cdn.cookielaw.org
 cdn.fwupd.org
+cdn.iads.unity3d.com				
 cdn.jsdelivr.net
 checkip.amazonaws.com
 chrome.cloudflare
@@ -31,6 +32,7 @@ friends.roblox.com
 gateway.facebook.com
 gateway.instagram.com
 google.com
+i.ytimg.com
 icanhazip.com
 json.schemastore.org
 m.facebook.com
@@ -39,8 +41,10 @@ mqtt-mini.facebook.com
 old.reddit.com
 pbs.twimg.com
 pool.ntp.org
+public-ubiservices.ubi.com				
 registry.npmjs.org
 time.android.com
+ubiservices.cdn.ubi.com
 upload.wikimedia.org
 video.twimg.com
 web.facebook.com
@@ -50,4 +54,5 @@ www.google.com
 www.rokomari.com
 www.youtube.com
 x.com
+youtubei.googleapis.com
 z-m-gateway.facebook.com
