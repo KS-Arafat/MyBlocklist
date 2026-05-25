@@ -1,8 +1,11 @@
-	
+
 0.openwrt.pool.ntp.org
 1.openwrt.pool.ntp.org
 a.rootapis.roblox.com
+ab.chatgpt.com
 abs.twimg.com
+accounts.google.com
+android.chat.openai.com
 api.bigdatacloud.net
 api.github.com
 api.ipify.org
@@ -34,7 +37,7 @@ friends.roblox.com
 gateway.facebook.com
 gateway.instagram.com
 google.com
-graph.facebook.com				
+graph.facebook.com
 i.ytimg.com
 icanhazip.com
 json.schemastore.org
@@ -42,6 +45,7 @@ kaios-d.facebook.com
 m.facebook.com
 member.daraz.com.bd
 mqtt-mini.facebook.com
+nexus-websocket-a.intercom.io
 old.reddit.com
 pbs.twimg.com
 play-fe.googleapis.com
@@ -50,6 +54,7 @@ public-ubiservices.ubi.com
 registry.npmjs.org
 rokbucket.rokomari.io
 time.android.com
+ubi.com
 ubiservices.cdn.ubi.com
 upload.wikimedia.org
 video.twimg.com
