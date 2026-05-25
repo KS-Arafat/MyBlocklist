@@ -126,7 +126,6 @@ mon-sg.capcutapi.com
 mssdk-sg.capcutapi.com
 carbonfeverthink.com
 support-json.channelcom.tech
-ab.chatgpt.com
 www.clarity.ms
 clevertap-prod.com
 eu1-spiky.clevertap-prod.com
@@ -151,7 +150,6 @@ edge-chat.facebook.com.lan
 firebaseremoteconfig.googleapis.com.lan
 g.mojitok-api.com.lan
 gateway.facebook.com.lan
-graph.whatsapp.com.lan
 mdp-appconf-lk.heytapdl.com.lan
 ngx-v6.amp-endpoint2.com.lan
 obus-dc20123-sg.heytapmobile.com.lan
@@ -209,7 +207,6 @@ collector.github.com
 analytics.githubassets.com
 origin-tracker.individual.githubcopilot.com
 www.google-analytics.com
-accounts.google.com
 adservice.google.com
 analytics.google.com
 appsgrowthpromo-pa.clients6.google.com
@@ -327,7 +324,6 @@ unif-id.ssp.inmobi.com
 cdn2.inner-active.mobi
 sdk-events.inner-active.mobi
 graph.instagram.com
-nexus-websocket-a.intercom.io
 ape-androids.isappcloud.com
 ib.isappcloud.com
 j9track.com
@@ -393,7 +389,6 @@ configure-tcp-android.mtgglobals.com
 net.mtgglobals.com
 api.naafiun.com
 www.naafiun.com
-api.whatsapp.net.lan
 dns10.quad9.net.lan
 googleads.g.doubleclick.net.lan
 nn125.com
@@ -404,7 +399,6 @@ api.onegg.site
 snssdk1233.onelink.me
 api.onesignal.com
 cdn.onesignal.com
-android.chat.openai.com
 images.openai.com
 pns-sdk.opera-api.com
 api-a.op-mobile.opera.com
@@ -528,7 +522,6 @@ syndication.twitter.com
 p.typekit.net
 cn-geo1.uber.com
 public-ws-ubiservices.ubi.com
-ubi.com
 u.uc123.com
 u.ucfly.com
 attr.union.ucweb.com
@@ -553,21 +546,6 @@ sba.keys.ohttp.prod.via.google
 a.videobaba.xyz
 adx.ads.vungle.com
 logs.ads.vungle.com
-graph.whatsapp.com
-api.whatsapp.net
-dit.whatsapp.net
-e11.whatsapp.net
-e13.whatsapp.net
-e15.whatsapp.net
-e3.whatsapp.net
-e6.whatsapp.net
-e9.whatsapp.net
-g-fallback.whatsapp.net
-g.whatsapp.net
-graph.whatsapp.net
-media-ccu1-1.cdn.whatsapp.net
-media-ccu2-2.cdn.whatsapp.net
-media-maa5-2.cdn.whatsapp.net
 intake-analytics.wikimedia.org
 csp.withgoogle.com
 downloading124332.downloading9anime4.workers.dev

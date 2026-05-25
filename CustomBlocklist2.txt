@@ -17,11 +17,9 @@ a.root-servers.net
 a.videobaba.xyz
 a0.awsstatic.com
 a4.applovin.com
-ab.chatgpt.com
 abroad.api.comm.intl.miui.com
 account.xiaomi.com
 accounts.doubleclick.net
-accounts.google.com
 accounts.youtube.com
 accountsettings.roblox.com
 acjs.aliyun.com
@@ -51,7 +49,6 @@ analytics.regex101.com
 analytics.us.tiktok.com
 android.apis.google.com.lan
 android.bugly.qq.com
-android.chat.openai.com
 anonymous.ads.brave.com
 ape-androids.isappcloud.com
 api-a.op-mobile.opera.com
@@ -81,8 +78,6 @@ api.onesignal.com
 api.sec.intl.miui.com
 api.sec.miui.com
 api.taboola.com
-api.whatsapp.net
-api.whatsapp.net.lan
 api16-access-ttp-b.tiktokpangle-b.us
 api16-access-ttp-b.tiktokpangle.us
 api16-access-ttp.tiktokpangle-b.us
@@ -211,7 +206,6 @@ dialercallinfolookup-pa.googleapis.com
 digitalassetlinks.googleapis.com
 discovery-announce-v4.syncthing.net
 discovery-announce-v6.syncthing.net
-dit.whatsapp.net
 dls-udc.dqa.samsung.com
 dls.di.atlas.samsung.com
 dns-fra.imo.im
@@ -227,12 +221,6 @@ ds.rokomari.store.lan
 dt.beyla.site
 dv9cjr-cdn-settings.appsflyersdk.com
 dv9cjr-launches.appsflyersdk.com
-e11.whatsapp.net
-e13.whatsapp.net
-e15.whatsapp.net
-e3.whatsapp.net
-e6.whatsapp.net
-e9.whatsapp.net
 eap-log-sg.allawnos.com
 ecsv2.roblox.com
 edge-chat.facebook.com.lan
@@ -264,12 +252,10 @@ flash.sec.intl.miui.com
 footprints-pa.googleapis.com
 frontier.tiktokv.com
 fundingchoicesmessages.google.com
-g-fallback.whatsapp.net
 g.alicdn.com
 g.lazcdn.com
 g.mojitok-api.com
 g.mojitok-api.com.lan
-g.whatsapp.net
 g2288.com
 gateway.facebook.com.lan
 gateway.unityads.unity3d.com
@@ -288,9 +274,6 @@ googlehosted.l.googleusercontent.com
 graph-fallback.facebook.com
 graph.fbpigeon.com
 graph.instagram.com
-graph.whatsapp.com
-graph.whatsapp.com.lan
-graph.whatsapp.net
 grok.x.com
 growth-pa.googleapis.com
 gtglobal.intl.miui.com
@@ -358,9 +341,6 @@ mdp-appconf-lk.heytapdl.com
 mdp-appconf-lk.heytapdl.com.lan
 mdp-appconf-sg.heytapdl.com
 mdp-appconf-us.heytapdl.com
-media-ccu1-1.cdn.whatsapp.net
-media-ccu2-2.cdn.whatsapp.net
-media-maa5-2.cdn.whatsapp.net
 meetings.googleapis.com
 messages.google.com
 metrics.roblox.com
@@ -384,7 +364,6 @@ mssdk16-normal-alisg.tiktokv.com
 mtalk.google.com
 my.rtmark.net
 net.mtgglobals.com
-nexus-websocket-a.intercom.io
 ngx-v6.amp-endpoint2.com.lan
 nn125.com
 nonexistent.cloudflare.com
@@ -544,7 +523,6 @@ tsyndicate.com
 tz.sec.xiaomi.com
 u.uc123.com
 u.ucfly.com
-ubi.com
 uc.ucweb.com
 ulp1p-pa.googleapis.com
 umami.wundertech.net
