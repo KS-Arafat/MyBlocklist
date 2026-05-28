@@ -195,7 +195,6 @@ graph-fallback.facebook.com
 l.facebook.com
 payments-graph.facebook.com
 web-fallback.facebook.com
-z-m-gateway.facebook.com
 z-m-graph.facebook.com
 connect.facebook.net
 debian.map.fastlydns.net

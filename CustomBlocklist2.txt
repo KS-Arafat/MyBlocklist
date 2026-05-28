@@ -582,6 +582,5 @@ xhamsterlive.com
 xml.opera.com
 ynuf.aliapp.org
 youtubei.googleapis.com.lan
-z-m-gateway.facebook.com
 z-m-gateway.facebook.com.lan
 z-m-graph.facebook.com
