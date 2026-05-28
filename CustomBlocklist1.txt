@@ -195,6 +195,7 @@ graph-fallback.facebook.com
 l.facebook.com
 payments-graph.facebook.com
 web-fallback.facebook.com
+z-m-gateway.facebook.com
 z-m-graph.facebook.com
 connect.facebook.net
 debian.map.fastlydns.net
@@ -262,20 +263,17 @@ taskassist-pa.googleapis.com
 ulp1p-pa.googleapis.com
 userlocation.googleapis.com
 voilatile-pa.googleapis.com
-www.googleapis.com
 xgapromomanager-pa.googleapis.com
 ade.googlesyndication.com
 pagead2.googlesyndication.com
 tpc.googlesyndication.com
 www.googletagmanager.com
-apidata.googleusercontent.com
 googlehosted.l.googleusercontent.com
 lh3.googleusercontent.com
 rr2---sn-cqi0c-q5j6.googlevideo.com
 rr3---sn-qpbpjvocq-gwie.googlevideo.com
 rr3---sn-qpbpjvocq-q5js.googlevideo.com
 csi.gstatic.com
-www.gstatic.com
 data.gtaf.org
 www.gulfood.com
 edgedl.me.gvt1.com
@@ -442,7 +440,6 @@ robotics-bd.com
 cdn.roboticsbd.com
 store.roboticsbd.com
 api.ads.rokomari.io
-rokfiles.rokomari.io
 a.root-servers.net
 my.rtmark.net
 iryjh.rttrk.com
@@ -521,7 +518,6 @@ ton.twimg.com
 syndication.twitter.com
 p.typekit.net
 cn-geo1.uber.com
-public-ws-ubiservices.ubi.com
 u.uc123.com
 u.ucfly.com
 attr.union.ucweb.com
@@ -533,12 +529,10 @@ px-intl.ucweb.com
 uc.ucweb.com
 atb-im-conf.ukyuh.tech
 ae.iads.unity3d.com
-configv2.unityads.unity3d.com
 gateway.unityads.unity3d.com
 i-adq.mediation.unity3d.com
 i-sdk.mediation.unity3d.com
 o-adq.mediation.unity3d.com
-o-sdk.mediation.unity3d.com
 unskilfulunpredictable.com
 hl-img.peco.uodoo.com
 172ba9a122.us.verifysession.uxcam.com

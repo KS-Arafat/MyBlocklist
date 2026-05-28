@@ -90,7 +90,6 @@ api16.tiktokv.com
 api2.wshareit.com
 api22-core-c-alisg.tiktokv.com
 api22-normal-c-alisg.tiktokv.com
-apidata.googleusercontent.com
 apis.roblox.com
 apm-rum-sgp.inf.miui.com
 app-measurement.com
@@ -171,7 +170,6 @@ config.inmobi.com
 configure-tcp-android.mtgglobals.com
 configure-tcp.rayjump.com
 configure.rayjump.com
-configv2.unityads.unity3d.com
 conn-service-us-04.allawnos.com
 conn-service-us-05.allawnos.com
 connect.facebook.net
@@ -371,7 +369,6 @@ notifications-pa.googleapis.com
 notifications-ueeshp-pa.googleapis.com
 nrcapi.ssl2.duapps.com
 o-adq.mediation.unity3d.com
-o-sdk.mediation.unity3d.com
 o.alicdn.com
 o33249.ingest.sentry.io
 o4508646089228288.ingest.de.sentry.io
@@ -423,7 +420,6 @@ prod-lt-playstoregatewayadapter-pa.googleapis.com.lan
 prod.pa.cdn.uis.awsstatic.com
 protrafficinspector.com
 pubads.g.doubleclick.net
-public-ws-ubiservices.ubi.com
 puds.ucweb.com
 px-intl.ucweb.com
 qbrere.cdn-settings.appsflyersdk.com
@@ -438,7 +434,6 @@ rep.maxesads.com
 res1.applovin.com
 resolver.msg.global.xiaomi.net
 robotics-bd.com
-rokfiles.rokomari.io
 router.miwifi.com
 rr2---sn-cqi0c-q5j6.googlevideo.com
 rr3---sn-qpbpjvocq-gwie.googlevideo.com
@@ -569,9 +564,7 @@ www.google-analytics.com
 www.google.com.lan
 www.google.us
 www.googleadservices.com
-www.googleapis.com
 www.googletagmanager.com
-www.gstatic.com
 www.gulfood.com
 www.lazada.com.my
 www.naafiun.com
@@ -589,5 +582,6 @@ xhamsterlive.com
 xml.opera.com
 ynuf.aliapp.org
 youtubei.googleapis.com.lan
+z-m-gateway.facebook.com
 z-m-gateway.facebook.com.lan
 z-m-graph.facebook.com
