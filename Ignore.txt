@@ -44,6 +44,7 @@ i.ytimg.com
 icanhazip.com
 json.schemastore.org
 kaios-d.facebook.com
+lh3.googleusercontent.com
 m.facebook.com
 member.daraz.com.bd
 mqtt-mini.facebook.com
@@ -52,6 +53,7 @@ o-sdk.mediation.unity3d.com
 old.reddit.com
 pbs.twimg.com
 play-fe.googleapis.com
+play.googleapis.com				
 pool.ntp.org
 public-ubiservices.ubi.com
 public-ws-ubiservices.ubi.com
