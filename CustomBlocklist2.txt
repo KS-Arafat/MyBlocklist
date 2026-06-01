@@ -318,7 +318,6 @@ laz-img-sg.alicdn.com
 lazy-tcp.rayjump.com
 lb.louieconurus.com
 lcdn.tsyndicate.com
-lh3.googleusercontent.com
 local
 location.services.mozilla.com
 locationhistory-pa.googleapis.com
@@ -404,7 +403,6 @@ peoplestackwebexperiments-pa.clients6.google.com
 pi.ias.xiaomi.com
 platform-api.sharethis.com
 platform-cdn.sharethis.com
-play.googleapis.com
 plugin.ucads.ucweb.com
 pns-sdk.opera-api.com
 pok.mintegral.net

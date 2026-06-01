@@ -249,7 +249,6 @@ notifications-pa.googleapis.com
 notifications-ueeshp-pa.googleapis.com
 ogads-pa.googleapis.com
 ondevicesafety-pa.googleapis.com
-play.googleapis.com
 proactivebackend-pa.googleapis.com
 remoteprovisioning.googleapis.com
 scone-pa.googleapis.com
@@ -268,7 +267,6 @@ pagead2.googlesyndication.com
 tpc.googlesyndication.com
 www.googletagmanager.com
 googlehosted.l.googleusercontent.com
-lh3.googleusercontent.com
 rr2---sn-cqi0c-q5j6.googlevideo.com
 rr3---sn-qpbpjvocq-gwie.googlevideo.com
 rr3---sn-qpbpjvocq-q5js.googlevideo.com
