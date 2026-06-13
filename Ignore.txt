@@ -11,6 +11,7 @@ api.ipify.org
 api.snapcraft.io
 api.x.com
 apidata.googleusercontent.com
+apis.roblox.com
 assetdelivery.roblox.com
 catalog.roblox.com
 cdn.cookielaw.org
@@ -26,11 +27,14 @@ connectivitycheck.gstatic.com
 crash.syncthing.net
 data.syncthing.net
 dc.services.visualstudio.com
+deb.debian.org
+debian.map.fastlydns.net
 detectportal.firefox.com
 dns10.quad9.net
 dooh.cloudflare-dns.com
 downloads.metasploit.com
 downloads.openwrt.org
+ecsv2.roblox.com
 example.org
 firefox.dns.nextdns.io
 fonts.googleapis.com
@@ -53,7 +57,7 @@ o-sdk.mediation.unity3d.com
 old.reddit.com
 pbs.twimg.com
 play-fe.googleapis.com
-play.googleapis.com				
+play.googleapis.com
 pool.ntp.org
 public-ubiservices.ubi.com
 public-ws-ubiservices.ubi.com
@@ -69,6 +73,7 @@ web.facebook.com
 www.daraz.com.bd
 www.facebook.com
 www.google.com
+www.google.us
 www.googleapis.com
 www.gstatic.com
 www.rokomari.com
