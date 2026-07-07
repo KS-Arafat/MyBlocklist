@@ -1,3 +1,6 @@
+.*anthropic.*
 .*fbcdn.*
+.*googlevideo.com
 .*rokomariapi.*
+.*ubi.*
 .*whatsapp.*
