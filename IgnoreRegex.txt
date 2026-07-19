@@ -4,3 +4,7 @@
 .*rokomariapi.*
 .*ubi.*
 .*whatsapp.*
+^(a-api|a-cdn|api|assets-proxy|s-cdn)\.anthropic\.com$|^claude\.ai$|^www\.claudeusercontent\.com$|^[0-9a-f]{32}\.claudemcpcontent\.com$|^dns\.google(\.com)?$|^(dooh\.|mozilla\.)?cloudflare-dns\.com$|^pool\.ntp\.org$|^[1-4]\.ntp\.ubuntu\.com$|^registry\.npmjs\.org$|^files\.pythonhosted\.org$|^(api|dashboard)\.snapcraft\.io$|^_http\._tcp\.deb\.debian\.org$|^debian\.map\.fastlydns\.net$|^appstream\.ubuntu\.com$|^(ctldl|download)\.windowsupdate\.com$|^builds\.dotnet\.microsoft\.com$|^cdn\.fwupd\.org$|^api\.github\.com$|^avatars\.githubusercontent\.com$|^cdn\.jsdelivr\.net$|^cdnjs\.cloudflare\.com$|^unpkg\.com$|^esm\.sh$|^accounts\.(google|youtube)\.com$|^mail\.google\.com$|^login\.live\.com$|^login\.microsoftonline\.com$|^en\.wikipedia\.org$|^chatgpt\.com$|^apps\.apple\.com$|^api\.telegram\.org$|^t\.me$|^python-telegram-bot\.org$|^(wp-cdn\.)?pi-hole\.net$|^www\.dnsleaktest\.com$|^mygp\.grameenphone\.com$|^train-websocket\.shohoz\.com$|^northsouth\.instructure\.com$|^www\.daraz\.com\.bd$|^(rokbucket\.rokomari\.io|ecommerce\.rokomariapi\.com)$|^icanhazip\.com$|^(pro\.)?ip-api\.com$|^ipinfo\.io$|^qcc\.qualcomm\.com$|^example\.(com|org)$|^rail\.bankofamerica\.com$
+.*mail.*
+.*cloudfront.*				
+.*cloudgate.*
