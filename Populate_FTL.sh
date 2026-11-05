@@ -2,7 +2,7 @@
 set -euo pipefail
 
 INPUT="FTL_URL.txt"
-DB_FILE="~/pihole-unbound/pihole/etc-pihole/pihole-FTL.db" # Adjust this path if your FTL database is located elsewhere
+DB_FILE="/home/araf/Pibound/pihole/etc-pihole/pihole-FTL.db" # Adjust this path if your FTL database is located elsewhere
 
 # Ask for Pi-hole SSH details
 read -rp "Enter Pi-hole SSH address: " PIHOLE_HOST

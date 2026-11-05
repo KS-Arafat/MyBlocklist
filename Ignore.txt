@@ -106,3 +106,7 @@ x.com
 youtubei.googleapis.com
 yt3.ggpht.com
 z-m-gateway.facebook.com
+dns.google.com
+www.chinatelecomglobal.com
+baidu.com
+xhamster46.desi
